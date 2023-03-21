@@ -8,6 +8,7 @@ function App() {
         <Hello name ="Minha" color = "red"/>
         <Hello name ="Hani" color = "blue"/>
         <Hello />
+        <Hello isSpecial={true}/>
       </Wrapper>
     </div>
   );
